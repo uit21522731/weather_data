@@ -11,5 +11,5 @@
 9. **uv_index**: Mức chỉ số tia cực tím (UV)
 10. **status**: mô tả ngắn gọn về thời tiết, ví dụ "sunny" (nắng), "cloudy" (mây), "overcast" (u ám), "rainy" (mưa), "stormy" (bão)
 11. **timestamp**: Thời điểm dữ liệu thời tiết được tạo ra
-
+### Minh hoạ kết quả
 ![demo result](https://github.com/user-attachments/assets/765d8f20-21fb-4af8-8245-f6cea5e8b5f3)
