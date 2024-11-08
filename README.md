@@ -1,5 +1,5 @@
 ### Thông tin các thuộc tính của bộ dữ liệu
-<p>1. **temperature (°C)**: Nhiệt độ khu vực tại một thời điểm nhất định</p>
+1. **temperature (°C)**: Nhiệt độ khu vực tại một thời điểm nhất định
 <p>2. **humidity (%)**: Độ ẩm tương đối</p> 
 <p>3. **wind_speed (km/h)**: Tốc độ gió trung bình</p>
 <p>4. **wind_direction**: Hướng chính của gió, ví dụ như "N", "NE", "E", "SE",...</p>
