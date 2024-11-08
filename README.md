@@ -1,3 +1,4 @@
+### Chương trình Python sinh ngẫu nhiên dữ liệu thời tiết (của ba miền Bắc, Trung, Nam của Việt Nam)
 ### Thông tin các thuộc tính của bộ dữ liệu
 1. **temperature (°C)**: Nhiệt độ khu vực tại một thời điểm nhất định
 2. **humidity (%)**: Độ ẩm tương đối
